@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Education App</string>
+    <string name="user">用户名</string>
+    <string name="pwd">密码</string>
+    <string name="login">登    录</string>
+    <string name="stuLogin">学生</string>
+    <string name="teaLogin">教师</string>
+
+    <string name="m_page">我的</string>
+    <string name="cl_page">选课</string>
+    <string name="cou_page">课表</string>
+    <string name="sc_page">分数</string>
+    <string name="Tput_page">录分</string>
+    <string name="Tmana_page">管理</string>
+    <string name="Tall_page">学生</string>
+
+    <string name="m_sno">学号：</string>
+    <string name="tm_tno">工号：</string>
+    <string name="m_name">名字：</string>
+    <string name="m_sex">性别：</string>
+    <string name="m_bj">班级：</string>
+    <string name="m_age">年龄：</string>
+    <string name="m_dept">专业：</string>
+    <string name="m_adress">住址：</string>
+    <string name="tm_xuewei">学位：</string>
+
+    <string name="c_no">课号</string>
+    <string name="c_name">课名</string>
+    <string name="c_xingzhi">性质</string>
+    <string name="c_date">时间</string>
+    <string name="c_place">地点</string>
+
+    <string name="sc_sno">学号</string>
+    <string name="sc_sname">姓名</string>
+    <string name="sc_cno">课号</string>
+    <string name="sc_cname">课名</string>
+    <string name="sc_sc">分数</string>
+    <string name="sc_yn">补考</string>
+    <string name="sc_sex">性别</string>
+    <string name="sc_sage">年龄</string>
+    <string name="sc_sbanji">班级</string>
+    <string name="sc_sdept">专业</string>
+    <string name="sc_sadress">地址</string>
+
+    <string name="addStu">新增学生</string>
+    <string name="getVideo">视频简介</string>
+</resources>
